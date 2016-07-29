@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Solomon</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <!--设置-->
+    <string name="action_shotcut">Create Shotcut</string>
+
+    <!--快捷方式及camera相关-->
+    <string name="desk_shot">Quick Capture</string>
+    <string name="permission_tip">This Application needs camera permission.</string>
+</resources>
